@@ -3,8 +3,9 @@
 ## Appendix A: Glossary of Core Terms
 
 - **Node:** A physical or digital space for learning, building, and sharing within ODIN.
-- **SOME:** Self-Organized Maker Environment.
+- **SOME:** Self-Organized Making Environment.
 - **SOLE:** Self-Organized Learning Environment.
+- **SOME:** Self-Organised Growing Environment.
 - **Feynman Loop:** A method of deep understanding through explanation and feedback.
 - **Guardian:** A trusted member of the Hex Council responsible for upholding ODIN’s values.
 - **Steward:** Local facilitator ensuring safety, accessibility, inclusion, and learning flow at a Node.
