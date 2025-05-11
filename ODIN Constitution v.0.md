@@ -2,11 +2,15 @@
 
 _"Our foundation, act of becoming, and soul. Everything we do derives its legitimacy from this."_
 
+---
+
 ## 1. The Purpose of ODIN's Constitution
 
 This is a living agreement for the stewardship of the Open Distributed Impact Network (ODIN).
 
 ODIN's Core Constitution defines what ODIN is, who it serves, what can't be compromised, and how it evolves. It is our moral firewall, our values engine, and social contract.
+
+---
 
 ## 2. Principles
 
@@ -53,6 +57,8 @@ Education in ODIN is not a service, but a **living ecosystem**. It flows through
 ODIN is not made of code. It is made of **relationships**. **Trust, reciprocity**, and **accountability** are the network’s true infrastructure.
 
 **Design Orientation**: Governance must prioritise **human connection, repair over punishment**, and **transparency over control**.
+
+---
 
 ## 3. Governance & Stewardship
 
@@ -121,8 +127,14 @@ ODIN shall maintain a **public ledger of proposals, decisions, experiments, and 
 
 Each decision is **co-signed, timestamped,** and **forkable**; allowing future members to learn from what was tried, what failed, what bloomed.
 
+---
+
 ## 4. Infrastructure & Code
 
+---
+
 ## 5. Contributions, Attribution & Value
+
+---
 
 ## 6. Memory & Evolution
