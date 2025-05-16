@@ -23,3 +23,4 @@
   - Why do we want to invite them?
   - What style of communication would work best to get them interested?
 - Read introduction and up to 2.3 (page 19) to _Peer to Peer: The Commons Manifesto_
+  - _Available: https://library.oapen.org/bitstream/id/2e3f561d-b1f5-4e7c-8da3-ccab0f00501d/UWP-033-REVISED.pdf_
