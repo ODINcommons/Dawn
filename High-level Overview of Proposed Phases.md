@@ -8,7 +8,7 @@ _Build the open and democratic foundations for ODIN._
 
 ### **Deadline:**
 
-_31/05/2025_
+_03/06/2025_
 
 ### 1. Finalise the ODIN Constitution v0.
 
