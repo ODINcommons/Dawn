@@ -8,21 +8,21 @@ _Build the open and democratic foundations for ODIN._
 
 ### **Deadline:**
 
-_03/06/2025_
+_07/06/2025_
 
-### 1. Finalise the ODIN Constitution v0.
+### 1. Finalise the ODIN Constitution v0.1 (Foundational)
 
 - All review constitution and add edits
 - Complete draft of sections 4-7
 - Add any missing sections
 - Agree on final draft
 
-### 2. Finalise the ODIN Protocol v0.
+### 2. Finalise the ODIN Protocol v0.1 (Foundational)
 
 - All to review protocol and add edits
 - All review and agree on final draft
 
-### 3. Finalise the ODIN Potential Collaborator Communications Package v0.
+### 3. Finalise the ODIN Potential Collaborator Communications Package v0.1 (Foundational)
 
 - Who do we want to invite?
 - Why do we want to invite them?
@@ -31,7 +31,7 @@ _03/06/2025_
 - Draft one-pager explanation of ODIN and why they should get involved.
 - Draft, review, edit, commit final Collaborator Communications Package.
 
-### 4. Finalise the ODIN Contributor Onboarding Package v0.
+### 4. Finalise the ODIN Contributor Onboarding Package v0.1 (Foundational)
 
 - README.md
 
@@ -42,7 +42,7 @@ _03/06/2025_
   - What are you working on now?
   - How can I get involved?
 
-### 5. Finalise the ODIN Governance Model v0.
+### 5. Finalise the ODIN Governance Model v0.1 (Foundational)
 
 - Define core governance elements
 
@@ -52,6 +52,7 @@ _03/06/2025_
 
 ### 6. Inaugurate the Founding Hexagon Council.
 
+- Outline criteria for Hex Council Archetypes
 - Define archetypes and roles for Hex Council
 - Set responsibilities and accountabilities
 - Celebrate founding of ODIN
@@ -67,6 +68,7 @@ _ODIN is stewarded and has a publicly visible founding framework and moral firew
 
 ### _Bonus Tasks:_
 
+- Begin scoping pilot parameters
 - LinkedIn easyapplybot.py
 
 ### Completed:
