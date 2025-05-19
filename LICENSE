@@ -243,47 +243,7 @@ express Statement of Purpose.
  d. Affirmer understands and acknowledges that Creative Commons is not a
     party to this document and has no duty or obligation with respect to
     this CC0 or use of the Work.
----
 
-MIT License
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
----
-
-ODIN Moral Use Clause (v1.0)
-
-In addition to the terms above, the following condition applies:
-
-This software may not be used to knowingly:
-
-- Spread misinformation or disinformation
-- Enable surveillance, profiling, or exploitation of individuals or groups
-- Support extractive influence operations or psyops
-- Aid in the suppression of knowledge, freedom, or human rights
-- Be deployed in service of systems that deny people the ability to learn, question, dissent, or access truth
-
-The spirit of this clause is to preserve the integrity of tools built under the ODIN network—tools meant for education, transparency, collective growth, and the empowerment of communities, not their manipulation.
-
-Violation of this clause is not merely a legal issue. It is a violation of the trust and values embedded in this software.
-
-If you're unsure whether your use case qualifies, ask the community. We are building this together.
 
 License Type: MIT + Ethical Safeguard Clause
 Maintainers: ODIN Hex Council
