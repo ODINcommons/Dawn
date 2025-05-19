@@ -17,7 +17,7 @@
 ### Follow-up Tasks for Next Week
 
 - Connor share GitHUB username to add to ODINcommons Organisation
-- All to review constitution and protocol
+- All to review constitution and protocol (won't be ratified in Phase 1, but we want good foundational docs)
 - All to make amendments or questions to bring for next week
 - All to think of one person they want to invite. Think about and answer:
   - Why do we want to invite them?
