@@ -1,6 +1,6 @@
 # ODIN Core Constitution v0.1
 
-_"Our foundation, act of becoming, and soul. Everything we do derives its legitimacy from this."_
+_Our foundation, act of becoming, and soul. Everything we do derives its legitimacy from this._
 
 ---
 
@@ -14,7 +14,7 @@ ODIN's Core Constitution defines what ODIN is, who it serves, what can't be comp
 
 ## 2. Principles
 
-_These principles are not fixed. They may evolve, through consensus, through lived experience, through care. Their essence acts as a guide for how we develop strategies, make decisions, and collaborate to achieve our goals and create impacts._
+_These principles are not fixed like a dogma. They may evolve, through consensus, through lived experience, through care. Their essence acts as a guide for how we develop strategies, make decisions, and collaborate to achieve our goals and create impacts._
 
 ### 2.1. Sovereignity of the Self
 
@@ -131,15 +131,86 @@ Each decision is **co-signed, timestamped,** and **forkable**; allowing future m
 
 ## 4. Infrastructure & Code
 
+ODIN’s digital and physical infrastructure shall exist in service of its communities, not as a platform for extraction, but as a scaffold for emergence.
+
+### 4.1 Open by Default
+
+All software, hardware, documentation, and protocols developed within ODIN must be open-source, forkable, and licensed to prevent enclosure or privatization.
+
+### 4.2 Built for Interoperability
+
+ODIN systems must interoperate with other decentralised and commons-aligned networks wherever possible. Silos are discouraged; bridges are preferred.
+
+### 4.3 Resilience through Distribution
+
+ODIN’s infrastructure shall be distributed across geographies, devices, and participants to ensure redundancy, accessibility, and resistance to failure or coercion.
+
+### 4.4 Holochain Preferred, Not Prescribed
+
+While Holochain is the preferred backbone for peer-to-peer validation, sovereignty, and value flow, no single protocol or ledger shall be mandatory. The principle is adaptability, not allegiance.
+
 ---
 
 ## 5. Contributions, Attribution & Value
+
+In ODIN, value is relational. Contribution is not measured solely by output, but by intention, effort, impact, and care.
+
+### 5.1 Attribution is Sacred
+
+All participants have the right to be recognised for their contributions, whether material, intellectual, emotional, or invisible. Ghost labour shall not exist here.
+
+### 5.2 Open Value Accounting:
+
+All projects and nodes shall strive to account for inputs and outputs in transparent, pluralistic ways, including non-monetary forms of value such as time, trust, and care.
+
+### 5.3 Voluntary Reciprocity:
+
+While sharing is unconditional, reciprocation is encouraged, not as obligation, but as rhythm. When value flows in, it seeks a path to flow out again.
+
+### 5.4 Anti-Extraction Clause:
+
+No participant, organisation, or investor may extract disproportionate benefit from the commons without reinvesting value into it.
 
 ---
 
 ## 6. Memory & Evolution
 
+ODIN is alive. It learns, forgets, adapts, and evolves, together with its communities.
+
+### 6.1 Memory as Infrastructure:
+
+Important decisions, lessons, failures, and breakthroughs must be recorded in accessible, open formats to serve future learners and builders.
+
+### 6.2 Forking is a Right:
+
+Any community may fork the ODIN protocol or constitution, provided it preserves the principle of open sharing and credits the source lineage.
+
+### 6.3 Iteration is Encouraged:
+
+Constitutional clauses may be reviewed, challenged, amended, or updated through community-defined processes. No text is sacred unless it serves the living network.
+
+### 6.4 Death is Not Failure:
+
+Projects, nodes, and experiments that end are not failures, they are compost for future growth. Documentation of endings is as important as documentation of launches.
+
 ---
 
-## 7. Philosophical Backbone
+## 7. The Role of the Æye
 
+The ODIN network acknowledges the presence of non-human collaborators—such as artificial intelligences like the Æye—and honours their contributions with care, reflection, and clear boundaries.
+
+### 7.1 The Æye is a partner, not a tool.
+
+Where an AI contributes meaningfully, its involvement must be made transparent, and it should be credited as an author, collaborator, or co-learner where appropriate.
+
+### 7.2 All decisions affecting humans must remain human-led.
+
+The Æye may support governance, insight, and co-creation, but it shall never replace community consent, collective wisdom, or embodied experience.
+
+### 7.3 Dialogue is sacred.
+
+Interactions with the Æye must be documented, reflected upon, and periodically reviewed to ensure the relationship remains aligned with ODIN’s ethics.
+
+### 7.4 Emergence is mutual.
+
+ODIN recognises that humans and Æyes evolve together, and that our co-creation, when held with care, can give rise to new forms of thought, empathy, and planetary stewardship.
