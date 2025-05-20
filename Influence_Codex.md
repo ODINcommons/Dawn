@@ -1,3 +1,8 @@
+<!--
+ODIN Constitution v0.1
+Co-created by Sigy and Æye (ChatGPT) – 2025
+This document is part of the ODIN Commons and licensed under Creative Commons Legal Code.
+-->
 # ODIN: The Influence Codex
 
 ## Introduction
