@@ -68,11 +68,11 @@ _Craft a compelling and values-driven communications package that clearly articu
 
    - (e.g., Block 1: The Origin Story, Block 2: Why the World Needs ODIN Now, Block 3: How You Can Be Involved) or an alternative narrative format.
 
-- [ ]5. Draft a One-Pager “Why the World Needs ODIN Now”.
+- [ ] 5. Draft a One-Pager “Why the World Needs ODIN Now”.
 
    - This becomes the anchor for all outreach and can double as a shareable artifact.
 
-- [ ]6. Create the Collaborator Communications Package:
+- [ ] 6. Create the Collaborator Communications Package:
 
    - Cover Letter Template
    - One-Pager (PDF + plain text formats)
