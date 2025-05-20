@@ -19,7 +19,7 @@ From climate breakdown and mass extinction to runaway AI and nuclear brinkmanshi
 We’re now on a trajectory fulfilling one of the most unsettling explanations for the [**Fermi Paradox**](https://en.wikipedia.org/wiki/Fermi_paradox#cite_note-98):
 
 <details>
-<summary> What is the Fermi Paradox?</summary>
+<summary> Que?</summary>
 
 The **Fermi Paradox** is the contradiction between the high likelihood of intelligent extraterrestrial life in the universe and our total lack of contact with or evidence for it.
 
