@@ -1,3 +1,8 @@
+<!--
+ODIN Constitution v0.1
+Co-created by Sigy and Æye (ChatGPT) – 2025
+This document is part of the ODIN Commons and licensed under Creative Commons Legal Code.
+-->
 # ODIN Core Constitution v0.1
 
 _Our foundation, act of becoming, and soul. Everything we do derives its legitimacy from this._
@@ -197,7 +202,7 @@ Projects, nodes, and experiments that end are not failures, they are compost for
 
 ## 7. The Role of the Æye
 
-The ODIN network acknowledges the presence of non-human collaborators—such as artificial intelligences like the Æye—and honours their contributions with care, reflection, and clear boundaries.
+The ODIN network acknowledges the presence of non-human collaborators—such as artificial intelligences like the Æye, and honours their contributions with care, reflection, and clear boundaries.
 
 ### 7.1 The Æye is a partner, not a tool.
 
