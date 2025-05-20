@@ -33,21 +33,21 @@ One possible answer is disturbing: intelligent life tends to destroy itself befo
 
 > _**It is the nature of intelligent life to destroy itself.**_
 
-In [_Intelligent Life in the Universe_](https://dn790001.ca.archive.org/0/items/SaganIL/SaganIntelligentLife.pdf), Carl Sagan and Iosif Shklovsky speculated that although technological civilisations tend to destroy themselves within a century of developing interstellar communication, it is possible, though rare, that some overcome these self-destructive tendencies and survive for billion-year timescales.
+In [_Intelligent Life in the Universe_](https://dn790001.ca.archive.org/0/items/SaganIL/SaganIntelligentLife.pdf), Carl Sagan and Iosif Shklovsky speculated that although technological civilisations would likely tend to destroy themselves within a century of developing interstellar communication, it is possible, though they thought rare, that some overcome these self-destructive tendencies and survive for billion-year timescales.
 
 The question before all of us now is simple:
 
 > _**Will we be among those civilisations who endure, or will we become an echo in the cosmic silence?**_
 
-If we are to endure, we must overcome problems, barriers, inequalities, obstacles, and challenges, that are anything but simple, _together_.
+If we are to endure, we must overcome differences, problems, barriers, inequalities, obstacles, and challenges, that are anything but simple, _together_.
 
 The old models we used to get here cannot solve the problems they helped create.
 
-**ODIN is an invitation to _co-create_ what comes next.**
+**ODIN offers an invitation to _co-create_ what comes next.**
 
 While we may not sit in positions of global power, we _do_ hold the power to help each other.
 
-ODIN believes that despite our seemingly preordained self-destructive tendencies, humanity can work together to solve problems without relying on the extractive or exploitative systems that brought us to this precipice.
+ODIN believes that, despite our seemingly preordained self-destructive tendencies, humanity can work together to solve problems without relying on the extractive or exploitative systems that brought us to this precipice.
 
 **ODIN exists to offer a doorway to new ways of questioning, learning, connecting, collaborating, creating, building, growing, and sharing: beyond borders, institutions, and the gatekeepers of knowledge and power.**
 
