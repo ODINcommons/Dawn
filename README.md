@@ -5,7 +5,7 @@ This document is part of the ODIN Commons and licensed under Creative Commons Le
 -->
 # ODIN - Open Distributed Impact Network
 
-## Why am I here?
+## Why are we here?
 
 **We are living through the most dangerous period in human history.**
 
