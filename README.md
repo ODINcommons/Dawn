@@ -63,7 +63,7 @@ We’re here to test a simple hypothesis:
 To test this, we’re blending:  
 – the proven power of **Self-Organised Learning Environments** (SOLEs)  
 – the creativity of **hackerspaces and maker labs**  
-– and a shared focus on **practical, local to planetary challenges**
+– and a shared focus on **practical challenges, from local to planetary scales**
 
 We aim to bridge the gap between **theory and practice**, and help the next generation step around the phone-shaped hole we’ve accidentally built for them.
 
