@@ -1,4 +1,4 @@
-# ODIN Core Constitution v.0
+# ODIN Core Constitution v0.1
 
 _"Our foundation, act of becoming, and soul. Everything we do derives its legitimacy from this."_
 
