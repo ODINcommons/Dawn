@@ -52,7 +52,7 @@ _Craft a compelling and values-driven communications package that clearly articu
 
 **Tasks:**
 
-- [ ] 1. Define the ideal collaborator profile.
+- [ ] 1. Define ideal collaborator profiles.
 
    - Who shares our values? Who benefits from a thriving commons? (e.g., social enterprises, open-source tech groups, mission-aligned corporates like SAP, grassroots organisations.)
 
@@ -144,4 +144,6 @@ _ODIN is stewarded and has a publicly visible founding framework and moral firew
 
 ## _Bonus Tasks:_
 
-- LinkedIn easyapplybot.py
+- [] LinkedIn easyapplybot.py
+  - [x] Get it working
+  - [] Hand it over to someone who knows what they're doing 
