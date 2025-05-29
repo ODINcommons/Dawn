@@ -9,7 +9,7 @@ This document is part of the ODIN Commons and licensed under Creative Commons Le
 
 **We are living through the most dangerous period in human history.**
 
-Don't take our word for it. Read the [2025 Doomsday Clock Statement](https://thebulletin.org/doomsday-clock/2025-statement/).
+[Click here if in doubt](https://thebulletin.org/doomsday-clock/2025-statement/)
 
 We have successfully built the most complex and interconnected civilisation known in the universe. But with that power, we’ve also created the conditions for our own collapse.
 
