@@ -1,6 +1,6 @@
 <!--
 ODIN README v0.1
-Co-created by Sigy and Æye (ChatGPT) – 2025
+Co-created by Sigy and Æye (ChatGPT) (and very briefly Jess) – 2025
 This document is part of the ODIN Commons and licensed under Creative Commons Legal Code.
 -->
 # ODIN - Open Distributed Impact Network
@@ -111,5 +111,5 @@ ODIN builds on the legacy of P2P culture, creative commons, open-source collabor
 
 1. Read the [Draft Constitution](https://github.com/ODINcommons/the-beginning/blob/main/ODIN%20Constitution%20v0.1.md) and [Protocol](https://github.com/ODINcommons/the-beginning/blob/main/ODIN%20Core%20Protocol%20v0.1.md).
 2. Explore our first project [Rhymes](https://github.com/ODINcommons/Rhymes).
-3. Get in contact via [GitHub](https://github.com/SeaWizard-ODIN) or [Email](sigypearce@pm.me).
+3. Get in contact via [GitHub](https://github.com/SeaWizard-ODIN) or [Email](mailto:sigypearce@pm.me).
 4. Share your skills, ideas, or just your curiosity.
