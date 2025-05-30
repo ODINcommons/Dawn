@@ -48,7 +48,7 @@ Read and suggest/make ammendments to:
 - [ ] Connor
 - [ ] Harrison
 - [ ] Kay
-- [ ] Nick
+- [x] Nick
 
 ### **Side Quests**
 - [x] Improve LinkedIn easyapplybot.py - Ed
