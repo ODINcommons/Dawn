@@ -51,6 +51,33 @@ Read and suggest/make ammendments to:
 - [ ] Nick
 
 ### **Side Quests**
+- [x] Improve LinkedIn easyapplybot.py - Ed
+- [x] Explore website hosting - Jess
+- [x] Invite someone who belongs in ODIN - Sigy
+
+## **30/05/25**
+
+### **Discussion Points**
+- New members
+- London Tech Week
+- ChatGPT Archiving and Synthesis for completing Phase One
+
+### **Agreed Actions for Next Week**
+
+- [ ] 
+
+
+### **Objective:** _insert objective_
+- [ ] Sigy
+- [ ] Jess
+- [ ] Micheal
+- [ ] Connor
+- [ ] Harrison
+- [ ] Kay
+- [ ] Nick
+
+### **Side Quests**
 - [ ] Improve LinkedIn easyapplybot.py
 - [ ] Explore website hosting
 - [ ] Invite someone who belongs in ODIN
+
