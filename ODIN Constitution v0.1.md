@@ -35,7 +35,7 @@ ODIN is not for sale. Its code, creations, and knowledge are part of the **digit
 
 ### 2.3 Distributed Trust
 
-ODIN replaces centralised verification with **peer-based trust, transparent attributuin, and decentralised credentials**.
+ODIN replaces centralised verification with **peer-based trust, transparent attribution, and decentralised credentials**.
 
 **Design Orientation**: All recognition systems must be designed to **honour contribution without hierarchy**, and **resist gaming or gatekeeping**.
 
@@ -87,7 +87,7 @@ The Hexagon consists of **six archetypal steward roles**, each embodying a dimen
 
 **6. The Culture** - Weaves stories, rituals, aesthetics, and intergenerational meaning.
 
-Each steward may **hold their role for 6 months**, after which **rotation is encouraged**. Stewards may be nominated, elected, or seld-declared; **provided their claim is witnessed and affirmed by at least two other active nodes.**
+Each steward may **hold their role for 6 months**, after which **rotation is encouraged**. Stewards may be nominated, elected, or self-declared; **provided their claim is witnessed and affirmed by at least two other active nodes.**
 
 ### 3.2 Decisions by Consent, Not Control
 
