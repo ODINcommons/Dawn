@@ -29,7 +29,7 @@
 
 ### **Discussion Points**
 - Welcome to ODIN's GitHub Nick and Kay!
-- Core document v0.1s are drafted _(Constitution, Protocol, README.md, Influence_Codex)
+- Core document v0.1s are drafted _(Constitution, Protocol, README.md, Influence_Codex)_
 - [Phase One Planner](https://github.com/orgs/ODINcommons/projects/4) is up
 - Phase 1 and odincommons.org launch target date set for 28/06/25
 - **Jess and Micheal are short on time due to a lot of change at Zeigo**
