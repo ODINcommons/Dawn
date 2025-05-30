@@ -43,7 +43,7 @@ Read and suggest/make ammendments to:
 
 ### **Objective:** _We all know, understand, agree on, and are happy to associate ourselves with, ODIN's social contract._
 - [x] Sigy
-- [ ] Jess
+- [x] Jess
 - [ ] Micheal
 - [ ] Connor
 - [ ] Harrison
