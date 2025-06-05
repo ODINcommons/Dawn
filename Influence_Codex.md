@@ -28,7 +28,7 @@ Let’s make this a library for the future we’re working towards, built from t
 
 ### Part II: Systems, Economies, and Other Timelines
 
-4. The Four Horsemen
+4. Four Horsemen
 5. Doughnut Economics
 6. Another Now
 
@@ -115,7 +115,7 @@ Let’s make this a library for the future we’re working towards, built from t
 
 ## Part II: Systems, Economies, and Other Timelines
 
-### 4. [The Four Horsemen](https://www.youtube.com/watch?v=5fbvquHSPJU) — Fall of Empires, Fracturing Systems
+### 4. [Four Horsemen](https://www.youtube.com/watch?v=5fbvquHSPJU) — Fall of Empires, Fracturing Systems
 
 **Rune:** _Hagalaz (ᚺ)_ — The Rune of Disruption, Fracture, and Necessary Storms
 
