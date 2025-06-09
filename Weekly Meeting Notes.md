@@ -91,7 +91,7 @@ Read and suggest/make ammendments to:
 - [ ] Vineeth
 
 ### **Objective 2:** _Help make our README file more accessible_
-- [ ] Sigy
+- [x] Sigy
 - [ ] Jess
 - [ ] Micheal
 - [ ] Connor
