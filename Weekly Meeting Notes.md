@@ -1,5 +1,65 @@
 # Weekly Meeting Notes
 
+## **16/06/25**
+
+### Attendees
+- Sigy
+- Beagle
+- Louisa
+
+### Agenda
+
+1. Check-in highlights
+  - Beagle and team placed third at Bristol Bike Polo's event!
+  - Louisa and Sigy came 22/55 in sailing race from Cowes to St. Malo!
+2. Self-Organised Learning Environments (SOLEs)
+  - Background context
+  - Why we should start running them
+3. Next Steps
+  - Watch: [Sugata Mitra's Ted Talk on Self Organised Learning Environemtns](https://www.ted.com/talks/sugata_mitra_build_a_school_in_the_cloud)
+  - Engage:
+    - a friend, family member, colleague, contact, etc. who might be able to help us find/source:
+    - a laptop or tablet for ODIN's first SOLE sessions (thank you Beagle for suggesting your employer and others' employees would be a good place to start!)
+    - space for us to run sessions (thank you Harrison for your idea about Scouts!)
+    - participants
+    - people to help run them
+  - Create: Communication package to share with potential stakeholders (Sigy Responsible, please let me know if you can help)
+
+## Summary Discussion
+
+### Background context
+
+Sigy: I watched Sugata Mitra's Ted Talk in 2013, and had the opportunity to help run SOLEs for refugee children at The Cube in Athens. They were both transformative experiences, and led to the first foundational element of ODIN.
+
+While in Greece (Khora - refugee charity), and in Bristol (Skipchen - food waste charity), we created and built awesome projects that helped people step-by-step, one challenge at a time. I feel I have been trying to work too many things out before getting physically started with piloting the first part of the project: SOLEs.
+
+I propose we set our current objective as:
+
+### Objective:
+  - Run 3 SOLE pilot sessions in 3 locations in 3 months by December 2025
+### Strategy:
+  - Engage with personal and local networks, connections, communities to find: spaces, devices, materials, participants, and facilitators
+### Tactics:
+  - Reach out to relevant contacts (direct, indirect, targetted) via direct message, email, or phone to find:
+    - Spaces to host SOLEs (London, Isle of Wight, Bristol) 
+    - Devices (laptops, tablets, AV recording, portable projector)
+    - Materials (sharpies, colouring pens, scissors, tape, rulers, flipcharts, etc.)
+    - Participants (schools, youth clubs, community centres, etc.)
+    - Facilitators (grandmas, parents, young people)
+
+### Questions
+  - What are they?
+  - Why are they effective?
+  - How do they fit into ODIN?
+  - How do we pilot some SOLE sessions?
+  - Who could we engage as participants?
+  - Who can we ask to help facilitate them?
+  - What spaces are suitable?
+  - Where would be good locations to trial them?
+  - What materials do we need?
+  - What techonologies do we need?
+
+
 ## **16/05/25**
 
 ### **Meeting Actions**
