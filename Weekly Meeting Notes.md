@@ -1,6 +1,6 @@
 # Weekly Meeting Notes
 
-## **16/06/25**
+## **16/07/25**
 
 ### Attendees
 - Sigy
