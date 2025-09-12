@@ -270,7 +270,7 @@ Let’s make this a library for the future we’re working towards, built from t
 
 ---
 
-### 12. [Self-Sovereignty](https://www.identity.com/self-sovereign-identity/) — Digital Identity & Trust Without Custodians
+### 12. [Self-Sovereignty](https://www.lifewithalacrity.com/article/the-path-to-self-soverereign-identity/) — Digital Identity & Trust Without Custodians
 
 **Rune:** _Othala (ᛟ)_ — The Rune of Inheritance, Stewardship, and Boundaried Belonging
 
